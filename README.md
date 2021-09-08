@@ -1,6 +1,6 @@
 ## Hi, I'm Florine 👋
 
-### I'm a french entrepreuneur and also IT & Managment engineering student at [Polytech][polyurl]!
+### I'm a french entrepreneur and also IT & Managment engineering student at [Polytech][polyurl]!
 
 - 🔭 I’m currently working on my side project [Semantik seo][semantik]
 - 👯 I’m looking to collaborate on this projet. I need a CTO 🧑‍💻
