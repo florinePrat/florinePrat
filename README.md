@@ -1,9 +1,9 @@
 ## Hi, I'm Florine 👋
 
-### I'm a french entrepreneur and also IT & Managment engineering student at [Polytech][polyurl]!
+### I'm a french entrepreneur and also Technical Product Owner at [Yooz][polyurl]!
 
-- 🔭 I’m currently working on my side project [Semantik seo][semantik]
-- 👯 I’m looking to collaborate on this projet. I need a CTO 🧑‍💻
+- 🔭 I’m currently working on my side project [Escape4home][semantik]
+- 👯 I’m looking to collaborate on this projet. 🧑‍💻
 - 📫 How to reach me: florineptlg64@gmail.com 📧
 - 😸 Find me on: [LinkedIn][linkedinurl]
 
@@ -23,6 +23,6 @@
 <img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
 
 
-[semantik]: https://semantik-seo.com
-[polyurl]: https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/informatique-et-gestion
-[linkedinurl]: https://www.linkedin.com/in/florine-pratlong-595811113/
+[semantik]: https://www.escape4home.com
+[polyurl]: https://www.getyooz.com/fr/
+[linkedinurl]: https://www.linkedin.com/in/florine-pratlong/
