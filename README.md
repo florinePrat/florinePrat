@@ -1,8 +1,8 @@
 ## Hi, I'm Florine 👋
 
-### I'm a french entrepreneur and also Technical Product Owner at [Yooz][polyurl]!
+### I'm a french entrepreneur and also Technical Product Owner at [Qotid][polyurl]!
 
-- 🔭 I’m currently working on my side project [Escape4home][semantik]
+- 🔭 I’m currently working on my side project [Escape4home][Escape4home]  [Memomental][Memomental]
 - 👯 I’m looking to collaborate on this projet. 🧑‍💻
 - 📫 How to reach me: florineptlg64@gmail.com 📧
 - 😸 Find me on: [LinkedIn][linkedinurl]
@@ -23,6 +23,7 @@
 <img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
 
 
-[semantik]: https://www.escape4home.com
-[polyurl]: https://www.getyooz.com/fr/
+[Escape4home]: https://www.escape4home.com
+[Memomental]: https://www.memomental.com
+[polyurl]: https://www.qotid.com/
 [linkedinurl]: https://www.linkedin.com/in/florine-pratlong/
