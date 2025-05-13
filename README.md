@@ -1,6 +1,6 @@
 ## Hi, I'm Florine 👋
 
-### I'm a french entrepreneur and also Technical Product Owner at [Qotid][polyurl]!
+### I'm a french entrepreneur and also Technical Product Owner!
 
 - 🔭 I’m currently working on my side project [Escape4home][Escape4home]  [Memomental][Memomental]
 - 👯 I’m looking to collaborate on this projet. 🧑‍💻
